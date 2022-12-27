@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ... react
 - 👯 I’m looking to collaborate on ... my repos
 - 💬 Ask me about ... whatever you like
-- 📫 How to reach me: ... [Twitter](https://twitter.com/PHPmacher)
+- 📫 How to reach me: ... [Mastodon](https://sueden.social/@phpmacher)
 - ⚡ Fun fact: ... most underestimated
 
 <!--
